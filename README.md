@@ -6,7 +6,7 @@ A modern, responsive AI Engineer Portfolio showcasing my work in Machine Learnin
 
 ## 🌐 Live Demo
 
-Coming Soon (Vercel)
+https://manasa-ai-portfolio.vercel.app/
 
 ---
 
