@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+.env.*
+
+# Vercel
+.vercel/
