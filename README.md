@@ -1,64 +1,87 @@
-# 🚀 Manasa Jagannadn AI Portfolio
+# 🚀 Manasa Jagannadan | AI Engineer Portfolio
 
-A modern, responsive AI Engineer Portfolio showcasing my work in Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and Software Engineering.
+
+<img width="1918" height="832" alt="image" src="https://github.com/user-attachments/assets/89e6b8c8-eae2-4d71-954b-4043ce2d12a2" />
+
+
+A modern, responsive, and professional AI Engineer Portfolio showcasing my expertise in **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Generative AI, and Software Engineering**.
+
+This repository also serves as a beginner-friendly reference for deploying a static portfolio using **GitHub** and **Vercel**.
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Portfolio
 
-https://manasa-ai-portfolio.vercel.app/
+🔗 **Website:** https://manasa-ai-portfolio.vercel.app/
+
+Explore my portfolio to learn more about my projects, skills, certifications, experience, and AI journey.
 
 ---
 
 ## 👩‍💻 About Me
 
-I am an AI Engineer with 4+ years of experience developing production-grade AI solutions.
+Hi, I'm **Manasa Jagannadan**.
 
-My expertise includes:
+I'm an AI Engineer passionate about designing and building intelligent systems that solve real-world problems. My interests include Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Generative AI, and scalable AI applications.
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Generative AI
-- Retrieval Augmented Generation (RAG)
-- LangChain
-- Hugging Face
-- FastAPI
-- Python
-- TensorFlow
-- PyTorch
+This portfolio highlights my professional experience, technical projects, certifications, and continuous learning journey.
 
 ---
 
-## ✨ Features
+## ✨ Portfolio Features
 
-- Responsive Portfolio
-- Modern UI
-- Animated Sections
-- Project Showcase
-- Skills Section
+- Responsive Design
+- Modern Dark UI
+- Smooth Animations
+- Hero Section
+- About Me
+- Skills
+- AI & Software Projects
 - Certifications
 - Contact Section
 - Mobile Friendly
-- Smooth Animations
+- Single File Architecture (HTML + CSS + JavaScript)
+- Fast Loading
+- Hosted on Vercel
 
 ---
 
-## 🛠 Technologies
+## 🛠 Tech Stack
+
+### Languages
 
 - HTML5
 - CSS3
 - JavaScript
+- Python
+
+### AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Hugging Face
+- TensorFlow
+- PyTorch
+- FastAPI
+
+### Tools & Platforms
+
 - Git
 - GitHub
 - Vercel
+- Streamlit
 
 ---
 
 ## 📂 Project Structure
 
-```
+```text
 manasa-ai-portfolio/
 │
 ├── index.html
@@ -79,7 +102,7 @@ Clone the repository
 git clone https://github.com/Manasajagannadan/manasa-ai-portfolio.git
 ```
 
-Move into the project
+Navigate to the project folder
 
 ```bash
 cd manasa-ai-portfolio
@@ -87,70 +110,170 @@ cd manasa-ai-portfolio
 
 Open
 
-```
+```text
 index.html
 ```
 
-using your preferred browser.
+using any modern web browser.
 
-No installation is required.
-
----
-
-## 🌍 Deploy on Vercel
-
-1. Fork or clone this repository.
-2. Login to Vercel.
-3. Import the GitHub repository.
-4. Leave all build settings as default.
-5. Click Deploy.
-
-That's it.
+No installation or build process is required.
 
 ---
 
-## 🎯 Who is this for?
+# 🌍 Deploy on Vercel
 
-- Students
-- AI/ML Engineers
+Deploying this project takes only a few minutes.
+
+### Step 1
+
+Fork or clone this repository.
+
+### Step 2
+
+Push the project to your GitHub account.
+
+### Step 3
+
+Sign in to Vercel using your GitHub account.
+
+### Step 4
+
+Click
+
+```
+Add New
+↓
+Project
+```
+
+### Step 5
+
+Import the GitHub repository.
+
+### Step 6
+
+Keep the default settings.
+
+| Setting | Value |
+|----------|-------|
+| Framework Preset | Other |
+| Root Directory | ./ |
+| Build Command | Default |
+| Output Directory | Default |
+| Install Command | Default |
+
+### Step 7
+
+Click **Deploy**.
+
+Within a few seconds, your portfolio will be live.
+
+---
+
+## 🔄 Updating the Portfolio
+
+Whenever you make changes locally, run:
+
+```bash
+git add .
+git commit -m "Describe your changes"
+git push
+```
+
+Since GitHub is connected to Vercel, every push to the **main** branch automatically triggers a new deployment.
+
+No manual upload is required.
+
+---
+
+## ⚙️ Deployment Workflow
+
+```text
+Local Development
+        │
+        ▼
+Git
+        │
+        ▼
+GitHub Repository
+        │
+        ▼
+Vercel
+        │
+        ▼
+Live Portfolio
+```
+
+---
+
+## 🎯 Who Is This Repository For?
+
+This project is useful for:
+
+- AI Engineers
+- Machine Learning Engineers
 - Software Engineers
+- Students
 - Data Scientists
-- Beginners learning GitHub and Vercel
-- Anyone who wants a free portfolio website
+- Beginners learning Git
+- Beginners learning GitHub
+- Beginners learning Vercel
+- Anyone building a professional portfolio
 
----
-
-## 🛠 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
-- Vercel
+Feel free to fork this repository and customize it for your own portfolio.
 
 ---
 
 ## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/jagannadan-manasa-aa11b0179/
+💼 **LinkedIn**
 
-GitHub: https://github.com/Manasajagannadan?tab=repositories
+https://www.linkedin.com/in/jagannadan-manasa-aa11b0179/
 
-Email: manasajagannada@gmail.com
+💻 **GitHub**
 
-YouTube: https://www.youtube.com/@aitechworld8367
+https://github.com/Manasajagannadan
 
-Instagram: https://www.instagram.com/aitechworld1313/
+📧 **Email**
+
+manasajagannada@gmail.com
+
+📺 **YouTube**
+
+https://www.youtube.com/@aitechworld8367
+
+📷 **Instagram**
+
+https://www.instagram.com/aitechworld1313/
 
 ---
 
 ## ⭐ Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+If you found this project helpful,
+
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share it with others who are learning GitHub and Vercel deployment.
 
 ---
 
 ## 📄 License
 
-This project is released under the MIT License.
+This project is licensed under the **MIT License**.
+
+You are welcome to use, modify, and customize this portfolio for your own learning and personal projects.
+
+---
+
+## 🙏 Acknowledgements
+
+Special thanks to the open-source community and the teams behind:
+
+- Git
+- GitHub
+- Vercel
+
+for providing outstanding tools that make modern software development and deployment simple and accessible.
