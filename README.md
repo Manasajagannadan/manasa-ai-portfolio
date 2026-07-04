@@ -1,4 +1,4 @@
-# 🚀 Manasa AI Portfolio
+# 🚀 Manasa Jagannadn AI Portfolio
 
 A modern, responsive AI Engineer Portfolio showcasing my work in Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and Software Engineering.
 
