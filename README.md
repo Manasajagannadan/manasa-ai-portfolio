@@ -134,9 +134,13 @@ That's it.
 ## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/jagannadan-manasa-aa11b0179/
+
 GitHub: https://github.com/Manasajagannadan?tab=repositories
-Email: manasajagannada@gmail.comn
+
+Email: manasajagannada@gmail.com
+
 YouTube: https://www.youtube.com/@aitechworld8367
+
 Instagram: https://www.instagram.com/aitechworld1313/
 
 ---
