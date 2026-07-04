@@ -109,23 +109,35 @@ That's it.
 
 ---
 
-## 📸 Screenshots
+## 🎯 Who is this for?
 
-(Add screenshots here after deployment.)
+- Students
+- AI/ML Engineers
+- Software Engineers
+- Data Scientists
+- Beginners learning GitHub and Vercel
+- Anyone who wants a free portfolio website
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Vercel
 
 ---
 
 ## 📫 Contact
 
-LinkedIn
-
-GitHub
-
-Email
-
-YouTube
-
-(Add your links)
+LinkedIn: https://www.linkedin.com/in/jagannadan-manasa-aa11b0179/
+GitHub: https://github.com/Manasajagannadan?tab=repositories
+Email: manasajagannada@gmail.comn
+YouTube: https://www.youtube.com/@aitechworld8367
+Instagram: https://www.instagram.com/aitechworld1313/
 
 ---
 
