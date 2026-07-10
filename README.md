@@ -1,7 +1,7 @@
 # 🚀 Manasa Jagannadan | Professional AI Engineer Portfolio | Machine Learning | Deep Learning | Generative AI | Computer Vision | NLP | GitHub + Vercel Deployment
 
 
-<img width="1918" height="832" alt="image" src="https://github.com/user-attachments/assets/89e6b8c8-eae2-4d71-954b-4043ce2d12a2" />
+<img width="1631" height="842" alt="image" src="https://github.com/user-attachments/assets/e2f79834-7411-4a7e-9ec5-c0e5928ed77b" />
 
 
 A modern, responsive, and professional AI Engineer Portfolio showcasing my expertise in **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Generative AI, and Software Engineering**.
